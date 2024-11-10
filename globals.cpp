@@ -1,3 +1,3 @@
 #include "globals.h"
 
-int chance; // 定义全局变量
+int chance; // define global variables
