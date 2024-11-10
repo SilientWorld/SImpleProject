@@ -81,9 +81,6 @@ void randomNum(int input);
 
 这个项目是开源的。欢迎修改和使用代码，按需进行修改。
 
-以下是中文版本的“Project Page”部分：
-
----
 
 ## 项目页面
 
