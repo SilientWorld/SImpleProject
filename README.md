@@ -23,7 +23,7 @@ A simple C++ console game where the player tries to guess a randomly generated n
 
 1. **Clone the Repository**: 
     ```bash
-    git clone <repository-url>
+    git clone  https://github.com/SilientWorld/SimpleProject.git
     ```
 
 2. **Compile the Program**: Ensure all `.cpp` files are compiled together. For example, in a Unix-like environment, run:
