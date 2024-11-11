@@ -85,7 +85,7 @@ void randomNum(int input);
 ## 项目页面
 
 您可以在以下链接找到完整的项目并进行贡献：  
-[数字猜谜游戏 - GitHub](https://github.com/SilientWorld/SimpleProject.git)
+[数字猜谜游戏 - GitHub](https://github.com/SilientWorld/SimpleProject)
 
 ---
 
