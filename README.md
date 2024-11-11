@@ -173,5 +173,5 @@ This project is open source. Feel free to modify and use the code as needed.
 ## Project Page
 
 You can find the full project and contribute at the following link:  
-[Number Guessing Game on GitHub](https://github.com/SilientWorld/SimpleProject.git)
+[Number Guessing Game on GitHub](https://github.com/SilientWorld/SimpleProject)
 
