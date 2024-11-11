@@ -90,6 +90,7 @@ void randomNum(int input);
 ---
 
 
+
 # Number Guessing Game
 
 A simple C++ console game where the player tries to guess a randomly generated number between 1 and 100 within a limited number of attempts based on difficulty level. The player selects a difficulty level at the beginning, and the game provides feedback for each incorrect guess, indicating whether the target number is higher or lower than the guessed number.
